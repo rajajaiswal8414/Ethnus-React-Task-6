@@ -88,7 +88,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='https://www.linkedin.com/in/sneha-agarwal-77aab721b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'
+              href='https://www.linkedin.com/in/raja-jaiswal-263aa2250/'
             >
               Linkedin <FaLinkedin size={30} />
             </a>
@@ -96,7 +96,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='https://github.com/SnehaAgarwal01'
+              href='https://github.com/rajajaiswal8414'
             >
               Github <FaGithub size={30} />
             </a>
@@ -104,7 +104,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='https://drive.google.com/file/d/1ESEYbYGZLiC0l-0f8yJSX5dnAgou4X9p/view?usp=sharing'
+              href=''
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>
